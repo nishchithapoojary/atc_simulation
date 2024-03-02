@@ -1,0 +1,82 @@
+/* Add your custom CSS styles here */
+
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    padding: 10px 15px;
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.input-group-addon {
+    min-width: 120px;
+    text-align: right;
+}
+
+.checkbox-label {
+    padding-left: 5px;
+}
+
+/* Button styles */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #218838;
+}
+
+/* Alert styles */
+.alert {
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+.alert-warning {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+/* Footer styles */
+.footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* DFA drawing area styles */
+#DFADrawing {
+    padding: 20px;
+}
+
+/* String validation area styles */
+#StringValidationAlert {
+    margin-top: 10px;
+}
+
+/* File download link styles */
+#fileDownloadLink {
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+}
